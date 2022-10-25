@@ -96,7 +96,7 @@ extern uint32_t UPDATE_COMMITED_TIME_EACH_MILLISECONDS;
 extern bool fake_transactions;
 
 
-#define NO_T_DISCARDS 5
+#define NO_T_DISCARDS 1
 extern uint32_t T_DISCARD[NO_T_DISCARDS];
 
 
